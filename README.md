@@ -1,1 +1,1 @@
-# aws-hands-on-source-code
+# AWS hands on source code
